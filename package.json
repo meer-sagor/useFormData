@@ -1,0 +1,27 @@
+{
+  "name": "useFormData",
+  "version": "1.0.0",
+  "description": "manange formdata one single line of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meer-sagor/useFormData.git"
+  },
+  "keywords": [
+    "fromdata",
+    "useFromData",
+    "vue",
+    "react",
+    "vue-formdata",
+    "react-fromdata"
+  ],
+  "author": "Meer sagor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meer-sagor/useFormData/issues"
+  },
+  "homepage": "https://github.com/meer-sagor/useFormData#readme"
+}
